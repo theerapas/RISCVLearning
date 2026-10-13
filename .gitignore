@@ -1,0 +1,33 @@
+# Vivado-generated directories (regenerated when running the project)
+*.cache/
+*.sim/
+*.runs/
+*.gen/
+*.hw/
+*.ip_user_files/
+.Xil/
+.ipcache/
+xsim.dir/
+
+# Tool logs, journals, and simulation output
+*.log
+*.jou
+*.str
+*.pb
+*.wdb
+*.vcd
+
+# Local project locks and backups
+*.xpr.lock
+*.xpr.lck
+*.xpr.bak
+
+# Vivado usage-report files
+webtalk*.xml
+webtalk*.html
+usage_statistics_webtalk.*
+
+# Keep project configuration and design inputs tracked:
+# .xpr, .srcs/, RTL, testbenches, constraints (.xdc), IP definitions
+# (.xci/.xcix), block designs (.bd), memory inputs (.mem/.coe), scripts,
+# waveform configurations (.wcfg), and study notes.
